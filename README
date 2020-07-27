@@ -1,0 +1,7 @@
+THE GOSSIP PROJECT 
+
+The Gossip Project est une plateforme de diffusion des gossips, ou commérages si tu préfères. 
+Mais pas "potins" par pitié, ce mot est vraiment trop moche!!!
+
+Pour la lancer en local, exécuter "shotgun -p 4567" dans le terminal puis ouvrir http://localhost:4567/ dans une fenêtre de navigateur internet. 
+

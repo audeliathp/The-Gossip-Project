@@ -1,0 +1,13 @@
+<html>
+  <head>
+    <title>The Gossip Project Show Gossip</title>
+  </head>
+  <body>
+    <h2>Mon gossip</h2>
+        <p> Gossip n° <%= (params['id'].to_i+1) %><br/>
+        Raconté par <%= gossips.author %><br/>
+        <%= gossips.content %>
+        </p>
+    <a href="/">Revenir à la gossip list</a><br/>
+  </body>
+</html>
